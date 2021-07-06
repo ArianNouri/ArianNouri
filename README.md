@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Gml and Yahoo
+- 📫 How to reach me on Gmail and Yahoo
 
 <!---
 ArianNouri/ArianNouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
