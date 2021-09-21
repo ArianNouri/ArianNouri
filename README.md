@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArianNouri
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Gmail and Yahoo
 
